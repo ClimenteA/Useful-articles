@@ -1,5 +1,5 @@
 # Useful-articles
-Collection of useful articles
+Collection of useful articles related to webdev and more 
 
 ### Restful API guides
 https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
